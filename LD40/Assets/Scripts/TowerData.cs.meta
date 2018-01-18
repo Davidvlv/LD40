@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52644104c77d95743aa2281db57e9449
+timeCreated: 1512194903
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - towerSprite: {fileID: 21300000, guid: 86edc20eb7d93784fbcd51a544c2feca, type: 3}
+  - bulletSprite: {fileID: 21300000, guid: 9bb38342b3852ac4c9863e53486e8732, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
